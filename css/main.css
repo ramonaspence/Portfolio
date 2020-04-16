@@ -15,6 +15,18 @@ a {
 }
 
 
+#navbar {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 1rem;
+	
+}
+
+#home {
+	display: inline-block;
+	
+}
+
 .main{
 	background: #fff;
 
@@ -137,7 +149,6 @@ footer{
     text-align: center;
     display: block;
     clear: both;
-    margin-top: 70px;
 }
 
 .back i{
